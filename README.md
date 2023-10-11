@@ -1,2 +1,2 @@
-# Bookstore-Ecommerce
-This an eCommerce project. I have used Core Java, Servlets, JDBC, JSP, JPA, Hibernate, MySQL to build this.
+# ToDo List Project
+This is a Todo list application which i have built using react.
